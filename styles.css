@@ -83,3 +83,16 @@ h1 {
         font-size: 24px;
     }
 }
+
+@media(max-width:350px){
+    h1{
+        font-size: 20px;
+    }
+    button {
+        font-size: 16px;
+    }
+    img {
+        width: 250;
+        height: 250;
+    }
+}
