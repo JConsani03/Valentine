@@ -90,6 +90,7 @@ h1 {
     }
     button {
         font-size: 16px;
+        width: 120px;
     }
     img {
         width: 250;
